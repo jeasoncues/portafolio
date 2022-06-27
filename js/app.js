@@ -13,4 +13,4 @@ let writing = str => {
     },200);
 }
 
-writing('Hola, soy Jeason Cueva.');
+writing('Hola, me encanta Shey ❤️.');
